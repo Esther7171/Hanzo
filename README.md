@@ -13,9 +13,9 @@ cd hanzo
 Chmod +x *
 ```
 ## Open terminal Run
-```./hanzo-scan``
+```./hanzo-scan```
 ## Open Another terminal Run
-```./hanzo-attack``
+```./hanzo-attack```
 ## Note :-
 ## ```Use 2 teminal 1 for hanzo_Attack and Another for hanzo_scan```
 ## About The Tool 
