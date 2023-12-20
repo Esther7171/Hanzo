@@ -13,9 +13,13 @@ cd hanzo
 Chmod +x *
 ```
 ## Open terminal Run
-```./hanzo-scan```
+```bash
+/hanzo-scan
+```
 ## Open Another terminal Run
-```./hanzo-attack```
+```bash
+./hanzo-attack
+```
 ## Note :-
 ## ```Use 2 teminal 1 for hanzo_Attack and Another for hanzo_scan```
 ## About The Tool 
@@ -40,4 +44,9 @@ Chmod +x *
 * Fifth is Froze network attack it froze target network by sending continue fake clint.
 * Sixth is mac flood attack to fill arp table of connected network to interrupt.
 * Seventh is  Packet injection test to check weather we are capable of injecting packeges on the network or not.
-* Eight option is for cracking Handshake 
+* Eight option is for converting Handshake to Hashcat or John format to get a comfort in cracking whatever you familiar with.
+
+### Usage Guide
+* Connect your wifi adapter
+* And start running tool by ```./hanzo-scan.sh``` Or ```./hanzo-attack.sh```.
+* Select any Option start attacking.
