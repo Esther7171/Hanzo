@@ -1,5 +1,8 @@
 # Hanzo
-
+## One Short Install 
+```bash
+git clone https://github.com/Esther7171/Hanzo;cd Hanzo; chmod +x *; ./install.sh
+```
 ## Installtion 
 ```bash
 git clone https://github.com/Esther7171/Hanzo
@@ -14,16 +17,16 @@ Chmod +x *
 ```
 ## Open terminal Run
 ```bash
-/hanzo-scan
+/hanzo-scan.sh
 ```
 ## Open Another terminal Run
 ```bash
-./hanzo-attack
+./hanzo-attack.sh
 ```
 ## Note :-
 ## ```Use 2 teminal 1 for hanzo_Attack and Another for hanzo_scan```
 ## About The Tool 
-### This tool is based on Aircrack-ng and mdk4 , In simple word its and automation. Basically its for biggner and lazy like me so i dont have to repeat all commands on terminal again and again. 
+### This tool is based on Aircrack-ng and mdk4 , In simple word its and automation. Basically its for beginner and lazy like me so i dont have to repeat all commands on terminal again and again. 
 
 ## Usage Tool
 ### hanzo-scan 
