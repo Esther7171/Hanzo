@@ -54,3 +54,7 @@ Chmod +x *
 * Connect your wifi adapter
 * And start running tool by ```./hanzo-scan.sh``` Or ```./hanzo-attack.sh```.
 * Select any Option start attacking.
+
+
+
+# Launching new and improve version soon ! stay with us 
